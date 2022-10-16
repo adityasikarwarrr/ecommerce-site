@@ -1,0 +1,12 @@
+.header-container {}
+
+.header-img {
+    margin: auto;
+    margin-top: 20px;
+    max-width: 1400px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    background-image: url('https://gamesncomps.com/wp-content/uploads/2022/10/zone-vibe-1.png');
+    background-size: cover;
+}

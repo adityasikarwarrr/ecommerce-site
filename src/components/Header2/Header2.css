@@ -1,0 +1,12 @@
+.header2-img {
+    max-width: 1200px;
+    margin: auto;
+    background-color: white;
+
+
+}
+
+.header2-img img {
+    margin-top: 20px;
+    width: 100%;
+}
